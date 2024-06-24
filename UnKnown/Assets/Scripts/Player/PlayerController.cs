@@ -30,7 +30,7 @@ public class PlayerController : MonoBehaviour
     private void Update()
     {
         stateMachine.Update();
-        Rotate();
+        
     }
 
     private void Rotate()
